@@ -1,10 +1,8 @@
 PHP KATA BOILERPLATE
 ==============
 
-* PHPUnit 3.7
+* PHPUnit 4.x
 * psr-0
-* watchr-growl script for TDD
-* watchr watchr.rb
 
 ```
 	git clone https://github.com/sergigp/kata-php-boilerplate.git your_project_folder
